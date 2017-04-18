@@ -1,0 +1,9 @@
+C:\Users\ECABIGTING-VM\Desktop\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.deps.json
+C:\Users\ECABIGTING-VM\Desktop\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.runtimeconfig.json
+C:\Users\ECABIGTING-VM\Desktop\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.runtimeconfig.dev.json
+C:\Users\ECABIGTING-VM\Desktop\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.dll
+C:\Users\ECABIGTING-VM\Desktop\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.pdb
+C:\Users\ECABIGTING-VM\Desktop\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.AssemblyInfo.cs
+C:\Users\ECABIGTING-VM\Desktop\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.dll
+C:\Users\ECABIGTING-VM\Desktop\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.pdb
+C:\Users\ECABIGTING-VM\Desktop\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.csprojResolveAssemblyReference.cache
